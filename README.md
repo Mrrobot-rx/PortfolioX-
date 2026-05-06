@@ -1,20 +1,79 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🚀 PortfolioX-
+
+**using best UI/UX **
+
+[![License](https://img.shields.io/github/license/Mrrobot-rx/PortfolioX-)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Mrrobot-rx/PortfolioX-)](https://github.com/Mrrobot-rx/PortfolioX-/stargazers)
+[![Issues](https://img.shields.io/github/issues/Mrrobot-rx/PortfolioX-)](https://github.com/Mrrobot-rx/PortfolioX-/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Mrrobot-rx/PortfolioX-)](https://github.com/Mrrobot-rx/PortfolioX-/commits)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 
-View your app in AI Studio: https://ai.studio/apps/df0265e6-f32b-47b6-a09d-44672c34003c
+---
 
-## Run Locally
+## 🌟 Overview
 
-**Prerequisites:**  Node.js
+using best UI/UX  This project demonstrates professional engineering standards and high-quality TypeScript implementation.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+
+- ⚡ **High Performance** — Optimized for speed and efficiency.
+- 🔒 **Secure by Design** — Built with security best practices.
+- 🎯 **Modern Architecture** — Clean code and scalable structure.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Language | TypeScript |
+| Tooling | GitHub Actions, Git |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+```bash
+# Ensure you have the necessary environment
+git --version
+```
+
+### Installation
+```bash
+git clone https://github.com/Mrrobot-rx/PortfolioX-.git
+cd PortfolioX-
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+Made with ❤️ by <a href="https://github.com/Mrrobot-rx">Mrrobot-rx</a>
+</div>
